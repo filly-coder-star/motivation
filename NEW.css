@@ -1,0 +1,37 @@
+
+.h1{
+    font-size: 60px;
+    line-height: 60px;
+    margin-left: 100px;
+    color: rgb(77, 6, 143);
+    font-family: satisfy;
+}
+.h2
+{
+    font-size: 50px;
+    margin-left: 250px;
+    color: rgb(4, 140, 95);
+    font-family: satisfy;
+}
+.h3{
+    font-size: 70px;
+   text-align: center;
+    margin-left: 50px;
+    color:rgb(99, 59, 136);
+    font-family:kablammo
+}
+.button{
+    background-color: #a7ffaa;
+    border: none;
+    color: rgb(3, 87, 30);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 600px;
+
+}
